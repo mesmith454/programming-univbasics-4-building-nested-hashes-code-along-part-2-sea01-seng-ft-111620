@@ -28,7 +28,7 @@ epic_tragedy[:capulet][:heroine][:status] = "dead"
 
 
 
-epic_tragedy[:additional_characters][0, 1]=
+epic_tragedy[:additional_characters][0, 1] = [
   {:name => "Prince Escalus"},
   {:name => "Apothecary"}
   ]
