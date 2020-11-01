@@ -30,7 +30,7 @@ def update_status
   epic_tragedy[:capulet][:heroine][:status] = "dead"
 end
 
-
+def add_characters
 epic_tragedy[:additional_characters][0] = {
   :name => "Prince Escalus"
 }
